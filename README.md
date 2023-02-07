@@ -12,7 +12,8 @@ Collect some 3D face animation related papers, data and repositories.
 |3D Morphable Face Models- Past, Present and Future| - |[SIGGRAPH2021](https://arxiv.org/pdf/1909.01815.pdf) | - | 3DMM Survey | - |
 |Pixel Codec Avatars| VAE |[CVPR2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577690)| - | - | `video` |
 |3D Face Reconstruction with Dense Landmarks| CNN |[arxiv2022](https://arxiv.org/pdf/2204.02776.pdf)| - | - |`video`|
-|Neural Head Avatars from Monocular RGB Videos| - | [CVPR2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9880001&tag=1)| [Code](https://github.com/philgras/neural-head-avatars) | - | `video`|  
+|Neural Head Avatars from Monocular RGB Videos| FLAME | [CVPR2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9880001&tag=1)| [Code](https://github.com/philgras/neural-head-avatars) | - | `video`|  
+|Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction| NeRF | [CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Gafni_Dynamic_Neural_Radiance_Fields_for_Monocular_4D_Facial_Avatar_Reconstruction_CVPR_2021_paper.pdf)| [Code](https://github.com/gafniguy/4D-Facial-Avatars)| - | `video` |
 |3DFaceShop: Explicitly Controllable 3D-Aware Portrait Generation | 3DFaceShop | [arxiv2022](https://arxiv.org/pdf/2209.05434.pdf) | [Code](https://github.com/junshutang/3DFaceShop) | - | `img` | 
 |FaceFormer: Speech-Driven 3D Facial Animation with Transformers | FaceFormer | [CVPR2022](https://arxiv.org/pdf/2112.05329v4.pdf) | [Code](https://github.com/EvelynFan/FaceFormer) | - | `img`+`audio` |
 |FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning | FACIAL | [ICCV2021](https://arxiv.org/pdf/2108.07938v1.pdf) | [Code](https://github.com/zhangchenxu528/FACIAL) | - | `img`+`audio` |
