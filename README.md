@@ -20,7 +20,7 @@ Collect some 3D face animation related papers, data and repositories.
 |FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning | FACIAL | [ICCV2021](https://arxiv.org/pdf/2108.07938v1.pdf) | [Code](https://github.com/zhangchenxu528/FACIAL) | - | `img`+`audio` |
 |Learning an Animatable Detailed 3D Face Model from In-The-Wild Images | DECA | [SIGGRAPH2021](https://files.is.tue.mpg.de/black/papers/SIGGRAPH21_DECA.pdf) | [Code](https://github.com/yfeng95/DECA) | - | `img` |
 |Learning a model of facial shape and expression from 4D scans | FLAME | [TOG2017](https://ps.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf) | [Code](https://flame.is.tue.mpg.de/) | `pioneer` | `img` |
-|EMOCA: Emotion Driven Monocular Face Capture and Animation | EMOCA | [CVPR2022](https://ps.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf) | [Code](https://github.com/radekd91/emoca) | - | `img` |
+|EMOCA: Emotion Driven Monocular Face Capture and Animation | EMOCA | [CVPR2022](https://ps.is.mpg.de/uploads_file/attachment/attachment/686/EMOCA__CVPR22.pdf) | [Code](https://github.com/radekd91/emoca) | - | `img` |
 |MICA - Towards Metrical Reconstruction of Human Faces | MICA | [ECCV2022](https://arxiv.org/pdf/2204.06607.pdf) | [Code](https://zielon.github.io/mica/) | - | `img` |
 
 
