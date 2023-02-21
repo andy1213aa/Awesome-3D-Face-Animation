@@ -7,9 +7,10 @@ Collect some 3D face animation related papers, data and repositories.
 | Title                  | Model                  | Published                                                    | Code                                                         | Keywords                                                     | Inputs                                                     |
 | ---------------------- | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |------------------------------------------------------------ |
 |HUMBI: A Large Multiview Dataset of Human Body Expressions | - | [CVPR2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_HUMBI_A_Large_Multiview_Dataset_of_Human_Body_Expressions_CVPR_2020_paper.pdf) | [code](https://humbi-data.net/) | `dataset` | - |
-|Multiface Dataset | - | [arxiv2022](https://arxiv.org/pdf/2207.11243.pdf) | [code](https://github.com/facebookresearch/multiface) | `dataset` | - |
+|Multiface Dataset | - | [arxiv2022](https://arxiv.org/pdf/2207.11243.pdf) | [Code](https://github.com/facebookresearch/multiface) | `dataset` | - |
 |Deep Appearance Models for Face Rendering | - | [TOG2018](https://dl.acm.org/doi/pdf/10.1145/3197517.3201401) | - | - | `video` |
-|Mixture of Volumetric Primitives for Efficient Neural Rendering| - | [TOG2021](https://arxiv.org/pdf/2103.01954.pdf) | [code](https://github.com/facebookresearch/mvp) | - | - |
+|Neural Volumes: Learning Dynamic Renderable Volumes from Images | - | [TOG2019](https://arxiv.org/pdf/1906.07751.pdf) | [Code](https://github.com/facebookresearch/neuralvolumes) | - | `imgs` |
+|Mixture of Volumetric Primitives for Efficient Neural Rendering| - | [TOG2021](https://arxiv.org/pdf/2103.01954.pdf) | [Code](https://github.com/facebookresearch/mvp) | - | - |
 |Real-time 3D Neural Facial Animation from Binocular Video | - | [SIGGRAPH2021](https://dl.acm.org/doi/pdf/10.1145/3450626.3459806) | - | - | `video` |
 |Authentic Volumetric Avatars from a Phone Scan| - | [TOG2022](https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R/view) | - | - | `video` |
 |3D Morphable Face Models- Past, Present and Future| - |[SIGGRAPH2021](https://arxiv.org/pdf/1909.01815.pdf) | - | `3DMM Survey` | - |
