@@ -25,5 +25,7 @@ Collect some 3D face animation related papers, data and repositories.
 |Learning a model of facial shape and expression from 4D scans | FLAME | [TOG2017](https://ps.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf) | [Code](https://flame.is.tue.mpg.de/) | `FLAME family` | `img` |
 |EMOCA: Emotion Driven Monocular Face Capture and Animation | EMOCA | [CVPR2022](https://ps.is.mpg.de/uploads_file/attachment/attachment/686/EMOCA__CVPR22.pdf) | [Code](https://github.com/radekd91/emoca) | `FLAME family` | `img` |
 |MICA - Towards Metrical Reconstruction of Human Faces | MICA | [ECCV2022](https://arxiv.org/pdf/2204.06607.pdf) | [Code](https://zielon.github.io/mica/) | `FLAME family` | `img` |
+| Audio-Driven 3D Facial Animation from In-the-Wild Videos | - | [CVPR2023](https://arxiv.org/pdf/2306.11541) | [Code](https://faw3d.github.io/) | `emotion`+`dataset` | `audio`|
+| Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition | RAD-NeRF | [CVPR2022](https://arxiv.org/pdf/2211.12368) | [Code](https://github.com/ashawkey/RAD-NeRF) | `Talking Potrait` | `audio` |
 
 
