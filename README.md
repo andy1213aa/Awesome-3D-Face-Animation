@@ -27,5 +27,5 @@ Collect some 3D face animation related papers, data and repositories.
 |MICA - Towards Metrical Reconstruction of Human Faces | MICA | [ECCV2022](https://arxiv.org/pdf/2204.06607.pdf) | [Code](https://zielon.github.io/mica/) | `FLAME family` | `img` |
 | Audio-Driven 3D Facial Animation from In-the-Wild Videos | - | [CVPR2023](https://arxiv.org/pdf/2306.11541) | [Code](https://faw3d.github.io/) | `emotion`+`dataset` | `audio`|
 | Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition | RAD-NeRF | [CVPR2022](https://arxiv.org/pdf/2211.12368) | [Code](https://github.com/ashawkey/RAD-NeRF) | `Talking Potrait` | `audio` |
-
+| Emotionally Enhanced Talking Face Generation | EmoGen | [CVPR2023](https://arxiv.org/pdf/2303.11548) | [Code](https://github.com/sahilg06/EmoGen) | `emotion` | `video` |
 
