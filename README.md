@@ -29,4 +29,5 @@ Collect some 3D face animation related papers, data and repositories.
 | Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition | RAD-NeRF | [CVPR2022](https://arxiv.org/pdf/2211.12368) | [Code](https://github.com/ashawkey/RAD-NeRF) | `Talking Potrait` | `audio` |
 | Emotionally Enhanced Talking Face Generation | EmoGen | [CVPR2023](https://arxiv.org/pdf/2303.11548) | [Code](https://github.com/sahilg06/EmoGen) | `emotion` | `video` |
 | EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation | EmoTalk | [ICCV2023](https://arxiv.org/abs/2303.11089) | [Code](https://github.com/psyai-net/EmoTalk_release) | `emotion` | `audio` |
+| Speech Driven Talking Face Generation From a Single Image and an Emotion Condition | - | [IEEE Trans. on Mul.](https://doi.org/10.1109/TMM.2021.3099900) | [Code](https://github.com/eeskimez/emotalkingface) | `emotion` | `audio`, + `img` |
 
